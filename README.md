@@ -40,6 +40,16 @@ can be produced even when individual AI services are unavailable.
 
 ---
 
+## Target Users
+
+Digest AI is designed for:
+- Independent media creators
+- Small studios and production teams
+- Agencies repurposing long-form content
+- Businesses that need scalable video production pipelines
+
+---
+
 ## Core Capabilities
 
 ### AI Orchestration
